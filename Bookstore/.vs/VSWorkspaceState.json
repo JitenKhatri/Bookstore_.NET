@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Bookstore.Api",
+    "\\Bookstore.Api\\Controllers",
+    "\\Bookstore.Models",
+    "\\Bookstore.Models\\Models",
+    "\\Bookstore.Models\\ViewModels",
+    "\\Bookstore.Repository"
+  ],
+  "SelectedNode": "\\Bookstore.sln",
+  "PreviewInSolutionExplorer": false
+}

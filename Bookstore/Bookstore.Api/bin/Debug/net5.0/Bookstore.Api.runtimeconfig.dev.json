@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Jiten\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Jiten\\.nuget\\packages"
+    ]
+  }
+}
